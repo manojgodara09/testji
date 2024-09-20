@@ -9,9 +9,41 @@
   
   {
     "id": "2",
-    "title": "India vs Bangladesh",
-    "imageUrl": "https://images.ottplay.com/images/india-vs-bangladesh-547.jpg",
-    "links":"https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8"
+    "title": "1080p India vs Bangladesh",
+    "imageUrl": "https://c.ndtvimg.com/2024-09/9fpun21g_r-ashwin-ravindra-jadeja_625x300_19_September_24.jpg",
+    "links":"https://sony247channels.akamaized.net/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1726833457~acl=%2F*~id=7465b876-0e2f-41da-8777-c40f734e1a01~data=hdntl~hmac=bd79a2a6db70ec1879d228562fc98c7fc76469e90966d400b5b219c94c40e967/master_3500.m3u8"
+    
+  },
+  
+  {
+    "id": "3",
+    "title": "720p India vs Bangladesh",
+    "imageUrl": "https://c.ndtvimg.com/2024-09/9fpun21g_r-ashwin-ravindra-jadeja_625x300_19_September_24.jpg",
+    "links":"https://sony247channels.akamaized.net/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1726833457~acl=%2f*~id=7465b876-0e2f-41da-8777-c40f734e1a01~data=hdntl~hmac=bd79a2a6db70ec1879d228562fc98c7fc76469e90966d400b5b219c94c40e967/master_1300.m3u8"
+    
+  },
+  
+  {
+    "id": "4",
+    "title": "360p India vs Bangladesh",
+    "imageUrl": "https://c.ndtvimg.com/2024-09/9fpun21g_r-ashwin-ravindra-jadeja_625x300_19_September_24.jpg",
+    "links":"https://sony247channels.akamaized.net/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1726833457~acl=%2F*~id=7465b876-0e2f-41da-8777-c40f734e1a01~data=hdntl~hmac=bd79a2a6db70ec1879d228562fc98c7fc76469e90966d400b5b219c94c40e967/master_664.m3u8"
+    
+  },
+  
+  {
+    "id": "5",
+    "title": "240p India vs Bangladesh",
+    "imageUrl": "https://c.ndtvimg.com/2024-09/9fpun21g_r-ashwin-ravindra-jadeja_625x300_19_September_24.jpg",
+    "links":"https://sony247channels.akamaized.net/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1726833457~acl=%2f*~id=7465b876-0e2f-41da-8777-c40f734e1a01~data=hdntl~hmac=bd79a2a6db70ec1879d228562fc98c7fc76469e90966d400b5b219c94c40e967/master_224.m3u8"
+    
+  },
+  
+  {
+    "id": "6",
+    "title": "144p India vs Bangladesh",
+    "imageUrl": "https://c.ndtvimg.com/2024-09/9fpun21g_r-ashwin-ravindra-jadeja_625x300_19_September_24.jpg",
+    "links":"https://sony247channels.akamaized.net/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1726833457~acl=%2f*~id=7465b876-0e2f-41da-8777-c40f734e1a01~data=hdntl~hmac=bd79a2a6db70ec1879d228562fc98c7fc76469e90966d400b5b219c94c40e967/master_108.m3u8"
     
   }
   
